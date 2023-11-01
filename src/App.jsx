@@ -1,7 +1,7 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import {Toaster} from 'react-hot-toast'
 
-import TaskPage from './pages/taskPage'; "./pages";
+import TaskPage from './pages/TaskPage'; 
 import TaskFormPage from './pages/TaskFormPage';
 import Navigation from './components/Navigation';
 export default function App() {
