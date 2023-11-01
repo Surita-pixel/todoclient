@@ -88,7 +88,7 @@ export default function TaskFormPage() {
                   color: "#fff",
                 },
               });
-              navigate("/tasks");
+              navigate("/");
             }
           }}
         >
